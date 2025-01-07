@@ -99,7 +99,7 @@ const Carousel = () => {
                 <img
                   src={item.icon} // Using the image URL here
                   alt={item.title}
-                  className=""
+                  className="w-full"
                 />
                 <div className="flex flex-col gap-[12px]">
                   <h3 className=" text-[#6F6F6F] text-center text-[22px] leading-[2vh]">
