@@ -1,0 +1,45 @@
+const items = [
+  {
+    title: "Unique Question Sets",
+    description: "Tailored questions for authenticity",
+    icon: img1,
+    gradient: "card1",
+  },
+  {
+    title: "Multilingual Interviews",
+    description: "Assess in any language",
+    icon: img2,
+    gradient: "card2",
+  },
+  {
+    title: "Bulk Invitations",
+    description: "Invite multiple candidates",
+    icon: img3,
+    gradient: "card3",
+  },
+  {
+    title: "Advanced Analytics",
+    description: "Insights into performance",
+    icon: img4,
+    gradient: "card4",
+  },
+  {
+    title: "Custom Questions",
+    description: "Fully customizable interviews",
+    icon: img5,
+    gradient: "card5",
+  },
+  {
+    title: "Secure Data",
+    description: "Built with privacy in mind",
+    icon: img6,
+    gradient: "card6",
+  },
+];
+
+import img1 from "../assets/card1.png";
+import img2 from "../assets/card2.png";
+import img3 from "../assets/card3.png";
+import img4 from "../assets/card4.png";
+import img5 from "../assets/card5.png";
+import img6 from "../assets/card6.png";
