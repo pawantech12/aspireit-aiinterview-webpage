@@ -958,7 +958,7 @@ const App = () => {
 
           {/* ///////////Difficulty Card///////// */}
 
-          <div className="flex w-full justify-end px-[2vw] pb-4 mt-5">
+          <div className="flex w-full justify-end px-[2vw] pb-4">
             <div className=" ButtonsCta h-[5vh] px-[20px] py-[20px] rounded-[30px] justify-center items-center gap-4 inline-flex hover:cursor-pointer bg-gradient-btn">
               <div className="flex Text items-center text-center text-white text-[18px] font-semibold gap-1">
                 {secondTabSelected === "airounds" ? (
